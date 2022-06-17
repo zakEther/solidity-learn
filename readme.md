@@ -1,3 +1,1 @@
-# solidity course
-
-Solidity course from scratch
+This is a solidity crash course
